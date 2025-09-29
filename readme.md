@@ -3,3 +3,6 @@
 
 ## Goal
 인프라 정보 보안 지망생입니다.
+
+## Studying
+Kali Linux / Offensive security
