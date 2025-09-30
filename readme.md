@@ -1,5 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-
 ## Who am I?
 영남대학교 컴퓨터학부 신동엽니다.
 
