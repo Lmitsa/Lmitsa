@@ -7,4 +7,4 @@
 ## Studying
 Kali Linux / Offensive security
 
-<img src="https://img.shields.io/badge/kalilinux-#557C94.svg?&style=for-the-badge&logo=fortran&logoColor=white" />
+<img src="https://img.shields.io/badge/kali%20linux-%23557C94.svg?&style=for-the-badge&logo=kali%20linux&logoColor=white" />
