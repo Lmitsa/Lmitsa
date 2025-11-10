@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
-## mortar_board: Who am I?
+## Who am I?
 영남대학교 컴퓨터학부 신동엽입니다.
 
 ## Goal
