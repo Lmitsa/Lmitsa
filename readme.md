@@ -1,9 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
-<div align="center">
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
-</div>
-
 ## Who am I?
 영남대학교 컴퓨터학부 신동엽입니다.
 
