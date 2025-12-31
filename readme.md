@@ -46,6 +46,7 @@
   </a>
 </p>
 
+
 ## 🕵️ Current Status
 ![Status](https://img.shields.io/badge/STATUS-ENCRYPTING_DATA-00FF41?style=flat-square&logo=ghost)
 ![Activity](https://img.shields.io/badge/ACTIVITY-INFRA_AUDITING-orange?style=flat-square&logo=securityscorecard)
