@@ -46,7 +46,7 @@
 
 ## 🛰️ Connectivity
 <p align="left">
-  <a href="mailto:your-email@example.com">
+  <a href="yjmlovesin83@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
 </p>
