@@ -5,7 +5,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=DEFENDING+CRITICAL+INFRASTRUCTURE;COUNTERING+AI-DRIVEN+THREATS;SECURE+THE+FOUNDATION" alt="Typing SVG" />
   </a>
 </p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=004411&height=120&section=header&text=MLB%20Security%20Lab&fontSize=50&animation=fadeIn&fontColor=00FF41" />
 </p>
