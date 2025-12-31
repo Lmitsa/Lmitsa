@@ -7,13 +7,19 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=00FF41&height=120&section=header&text=MLB%20Security%20Lab&fontSize=50&animation=fadeIn&fontColor=000000" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=004411&height=120&section=header&text=Lmitsa%20Security%20Lab&fontSize=50&animation=fadeIn&fontColor=00FF41" />
 </p>
 
 ## 👤 Profile Detail
 - 🌐 **Specialization:** **Infrastructure Security** (인프라 보안)
 - ⚔️ **Research:** **Defense against AI-driven Threats** (AI 기반 위협 방어)
 - 🎯 **Objective:** 차세대 AI 공격으로부터 국가 핵심 기반 시설을 보호하는 보안 전문가
+
+## 🕵️ Current Status
+<p align="left">
+  <img src="https://img.shields.io/badge/STATUS-ENCRYPTING_DATA-00FF41?style=flat-square&logo=ghost" />
+  <img src="https://img.shields.io/badge/ACTIVITY-INFRA_AUDITING-orange?style=flat-square&logo=securityscorecard" />
+</p>
 
 ---
 
@@ -29,24 +35,25 @@
 ---
 
 ## 📈 Mission Status (GitHub Activities)
+
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lmitsa&show_icons=true&theme=matrix&rank_icon=github&border_radius=10&count_private=true" alt="Lmitsa's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lmitsa&show_icons=true&theme=matrix&rank_icon=github&border_radius=10&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lmitsa&layout=compact&theme=matrix&border_radius=10&count_private=true" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lmitsa&layout=compact&theme=matrix&border_radius=10&count_private=true" alt="Top Langs" />
+  <img src="https://streak-stats.demolab.com/?user=Lmitsa&theme=matrix&border_radius=10" width="94%" />
 </p>
 
 ---
 
 ## 🛰️ Connectivity
 <p align="left">
-  <a href="yjmlovesin83@gmail.com">
+  <a href="mailto:여기에_이메일을_입력하세요">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
 </p>
 
-
-## 🕵️ Current Status
-![Status](https://img.shields.io/badge/STATUS-ENCRYPTING_DATA-00FF41?style=flat-square&logo=ghost)
-![Activity](https://img.shields.io/badge/ACTIVITY-INFRA_AUDITING-orange?style=flat-square&logo=securityscorecard)
+<p align="right">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLmitsa&count_bg=%2300FF41&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=ACCESS+COUNT&edge_flat=false" />
+</p>
