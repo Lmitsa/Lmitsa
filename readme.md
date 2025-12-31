@@ -45,3 +45,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
 </p>
+
+## 🕵️ Current Status
+![Status](https://img.shields.io/badge/STATUS-ENCRYPTING_DATA-00FF41?style=flat-square&logo=ghost)
+![Activity](https://img.shields.io/badge/ACTIVITY-INFRA_AUDITING-orange?style=flat-square&logo=securityscorecard)
