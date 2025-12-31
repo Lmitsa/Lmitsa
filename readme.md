@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=004411&height=120&section=header&text=Lmitsa%20Security%20Lab&fontSize=50&animation=fadeIn&fontColor=00FF41" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=004411&height=120&section=header&text=MLB%20Security%20Lab&fontSize=50&animation=fadeIn&fontColor=00FF41" />
 </p>
 
 ## 👤 Profile Detail
