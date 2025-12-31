@@ -30,15 +30,15 @@
 
 ## 📈 Mission Status (GitHub Activities)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lmitsa&show_icons=true&theme=matrix&rank_icon=github&border_radius=10&count_private=true" alt="Lmitsa's Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lmitsa&show_icons=true&theme=matrix&rank_icon=github&border_radius=10&count_private=true" alt="Lmitsa's Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lmitsa&layout=compact&theme=matrix&border_radius=10&count_private=true" alt="Top Langs" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lmitsa&layout=compact&theme=matrix&border_radius=10&count_private=true" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Lmitsa&theme=matrix&border_radius=10" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lmitsa&theme=matrix&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
