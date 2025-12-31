@@ -29,7 +29,6 @@
 ---
 
 ## 📈 Mission Status (GitHub Activities)
-## 📈 Mission Status (GitHub Activities)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lmitsa&show_icons=true&theme=matrix&rank_icon=github&border_radius=10&count_private=true" alt="Lmitsa's Stats" />
 </p>
