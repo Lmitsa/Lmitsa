@@ -37,10 +37,6 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lmitsa&layout=compact&theme=matrix&border_radius=10&count_private=true" alt="Top Langs" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lmitsa&theme=matrix&hide_border=false" alt="GitHub Streak" />
-</p>
-
 ---
 
 ## 🛰️ Connectivity
