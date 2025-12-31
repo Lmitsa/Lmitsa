@@ -47,5 +47,7 @@
 
 
 ## 🕵️ Current Status
-![Status](https://img.shields.io/badge/STATUS-ENCRYPTING_DATA-00FF41?style=flat-square&logo=ghost)
-![Activity](https://img.shields.io/badge/ACTIVITY-INFRA_AUDITING-orange?style=flat-square&logo=securityscorecard)
+<p align="left">
+  <img src="https://img.shields.io/badge/STATUS-LEARNING_INFRA_SECURITY-00FF41?style=flat-square&logo=bookstack" />
+  <img src="https://img.shields.io/badge/ROLE-UNDERGRADUATE_RESEARCHER-blue?style=flat-square&logo=googlescholar" />
+</p>
