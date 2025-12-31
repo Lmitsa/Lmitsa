@@ -1,4 +1,4 @@
-# 🛡️ SYSTEM SECURITY ARCHITECT | MLB
+# 🛡️ SYSTEM SECURITY ARCHITECT | Lmitsa
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -29,17 +29,16 @@
 ---
 
 ## 📈 Mission Status (GitHub Activities)
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lmitsa&show_icons=true&theme=matrix&count_private=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lmitsa&show_icons=true&theme=matrix&rank_icon=github&border_radius=10&count_private=true" alt="Lmitsa's Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lmitsa&layout=compact&theme=matrix&count_private=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lmitsa&layout=compact&theme=matrix&border_radius=10&count_private=true" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Lmitsa&theme=matrix" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lmitsa&theme=matrix&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
