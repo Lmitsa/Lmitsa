@@ -31,11 +31,11 @@
 ## 📈 Mission Status (GitHub Activities)
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lmitsa&show_icons=true&theme=matrix&rank_icon=github&border_radius=10&count_private=true" alt="Lmitsa's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lmitsa&show_icons=true&theme=matrix&rank_icon=github&border_radius=10&count_private=true&cache_seconds=1" alt="Lmitsa's Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lmitsa&layout=compact&theme=matrix&border_radius=10&count_private=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lmitsa&layout=compact&theme=matrix&border_radius=10&count_private=true&cache_seconds=1" alt="Top Langs" />
 </p>
 
 <p align="center">
@@ -46,11 +46,11 @@
 
 ## 🛰️ Connectivity
 <p align="left">
-  <a href="mailto:본인이메일주소">
+  <a href="mailto:여기에_이메일을_입력하세요">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
 </p>
 
-<p align="right">
+<p align="right">  
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLmitsa&count_bg=%2300FF41&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=ACCESS+COUNT&edge_flat=false" />
 </p>
