@@ -1,4 +1,4 @@
-# 🛡️ SYSTEM SECURITY ARCHITECT | MLB
+# 🛡️ NETWORK SECURITY ARCHITECT | MLB
 
 <p align="center">
   <a href="https://git.io/typing-svg">
