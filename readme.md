@@ -50,4 +50,5 @@
 <p align="left">
   <img src="https://img.shields.io/badge/STATUS-LEARNING_INFRA_SECURITY-00FF41?style=flat-square&logo=bookstack" />
   <img src="https://img.shields.io/badge/ROLE-UNDERGRADUATE_RESEARCHER-blue?style=flat-square&logo=googlescholar" />
+  <img src="https://img.shields.io/badge/CLEARANCE-LEVEL_3-red?style=flat-square&logo=keybase" />
 </p>
