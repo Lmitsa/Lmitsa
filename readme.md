@@ -1,17 +1,17 @@
 <!-- ═══════════════════════ HEADER ═══════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003B00,100:00FF41&height=220&section=header&text=MLB%20Security%20Lab&fontSize=60&fontColor=00FF41&animation=fadeIn&fontAlignY=38&desc=Network%20Security%20Architect%20%7C%20Infrastructure%20Defense&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003B00,100:00FF41&height=220&section=header&text=MLB%20Security%20Lab&fontSize=60&fontColor=00FF41&animation=fadeIn&fontAlignY=38&desc=System%20%C2%B7%20Blockchain%20%C2%B7%20AI%20Security%20Architecture&descAlignY=58&descSize=18" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%3E+Initializing+defense+protocols...;%3E+DEFENDING+CRITICAL+INFRASTRUCTURE;%3E+COUNTERING+AI-DRIVEN+THREATS;%3E+SECURE+THE+FOUNDATION_" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%3E+Initializing+defense+protocols...;%3E+HARDENING+SYSTEMS+FROM+THE+KERNEL+UP;%3E+SECURING+THE+CHAIN+OF+TRUST;%3E+ARCHITECTING+SECURE+AI;%3E+SECURE+THE+FOUNDATION_" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Lmitsa&label=SYSTEM%20ACCESS&color=00FF41&style=flat-square&labelColor=000000" />
-  <img src="https://img.shields.io/badge/STATUS-LEARNING_INFRA_SECURITY-00FF41?style=flat-square&logo=bookstack&labelColor=000000" />
+  <img src="https://img.shields.io/badge/STATUS-SYSTEM%20%7C%20BLOCKCHAIN%20%7C%20AI_SECURITY-00FF41?style=flat-square&logo=bookstack&labelColor=000000" />
   <img src="https://img.shields.io/badge/ROLE-UNDERGRADUATE_RESEARCHER-00B4D8?style=flat-square&logo=googlescholar&labelColor=000000" />
   <img src="https://img.shields.io/badge/CLEARANCE-LEVEL_3-FF0033?style=flat-square&logo=keybase&labelColor=000000" />
 </p>
@@ -26,10 +26,12 @@
 ```
 ```yaml
 name:           MLB
-role:           Network Security Architect (in training)
-specialization: Infrastructure Security          # 인프라 보안
-research:       Defense against AI-driven Threats # AI 기반 위협 방어
-mission:        차세대 AI 공격으로부터 국가 핵심 기반 시설을 보호하는 보안 전문가
+role:           Security Architect (in training)
+specialization:
+  - System Security               # 시스템 보안
+  - Blockchain Security           # 블록체인 보안
+  - AI Security Architecture      # AI 보안 아키텍처
+mission:        시스템부터 블록체인, AI까지 신뢰할 수 있는 보안 구조를 설계하는 보안 전문가
 motto:          "Secure the foundation, and everything above it stands."
 ```
 
@@ -40,19 +42,19 @@ motto:          "Secure the foundation, and everything above it stands."
 <table>
   <tr>
     <td align="center" width="33%">
-      <h3>🏗️</h3>
-      <b>Infrastructure Security</b><br/>
-      <sub>네트워크 설계 · 접근 통제<br/>OT/ICS 보안 · 세그멘테이션</sub>
+      <h3>🖥️</h3>
+      <b>System Security</b><br/>
+      <sub>리버싱 · 시스템 해킹<br/>메모리 보호 기법 · 커널 보안</sub>
+    </td>
+    <td align="center" width="33%">
+      <h3>⛓️</h3>
+      <b>Blockchain Security</b><br/>
+      <sub>스마트 컨트랙트 감사<br/>DeFi 취약점 분석 · 합의 보안</sub>
     </td>
     <td align="center" width="33%">
       <h3>🤖</h3>
-      <b>AI Threat Defense</b><br/>
-      <sub>AI 기반 공격 탐지<br/>이상 트래픽 분석 · ML 보안</sub>
-    </td>
-    <td align="center" width="33%">
-      <h3>🔍</h3>
-      <b>Network Forensics</b><br/>
-      <sub>패킷 분석 · 침해 대응<br/>위협 헌팅 · 로그 분석</sub>
+      <b>AI Security Architecture</b><br/>
+      <sub>안전한 AI 시스템 설계<br/>적대적 공격 · LLM 보안</sub>
     </td>
   </tr>
 </table>
@@ -82,14 +84,25 @@ motto:          "Secure the foundation, and everything above it stands."
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
 
+**⛓️ Blockchain**<br/>
+<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white">
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white">
+<img src="https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=ethereum&logoColor=00FF41">
+
+**🔬 System / Reversing**<br/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
+<img src="https://img.shields.io/badge/Ghidra-000000?style=for-the-badge&logo=ghidra&logoColor=00FF41">
+<img src="https://img.shields.io/badge/GDB-A42E2B?style=for-the-badge&logo=gnu&logoColor=white">
+
 ---
 
 ## 📡 Research Log
 
 ```diff
-+ [ACTIVE]   AI 기반 이상 트래픽 탐지 모델 연구
-+ [ACTIVE]   핵심 기반 시설(ICS/SCADA) 네트워크 보안 학습
-! [QUEUED]   LLM을 악용한 자동화 공격 시나리오 분석 및 방어 전략
++ [ACTIVE]   시스템 해킹 · 리버스 엔지니어링 학습
++ [ACTIVE]   스마트 컨트랙트 취약점 분석 및 감사
++ [ACTIVE]   AI 시스템 위협 모델링 및 보안 아키텍처 설계
+! [QUEUED]   LLM 프롬프트 인젝션 · 적대적 공격 방어 전략
 - [PLANNED]  보안 자격증 취득 로드맵 진행
 ```
 
