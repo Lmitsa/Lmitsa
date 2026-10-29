@@ -108,11 +108,6 @@ motto:          "Secure the foundation, and everything above it stands."
 
 ---
 
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Lmitsa&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=003B00&hide_border=true" />
-</p>
-
 <!-- 🐍 Contribution Snake (snake.yml 워크플로우가 실행된 뒤에 표시됩니다) -->
 <p align="center">
   <picture>
