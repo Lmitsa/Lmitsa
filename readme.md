@@ -108,16 +108,6 @@ motto:          "Secure the foundation, and everything above it stands."
 
 ---
 
-## 📈 Mission Status
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lmitsa&show_icons=true&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&hide_border=true&rank_icon=github&count_private=true" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lmitsa&layout=compact&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&hide_border=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Lmitsa&background=0D1117&border=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
-</p>
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Lmitsa&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=003B00&hide_border=true" />
